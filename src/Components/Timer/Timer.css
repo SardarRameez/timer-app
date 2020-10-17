@@ -1,0 +1,8 @@
+.timer-container {
+	border: 2px solid navy;
+	margin: auto !important;
+	min-height: 400px;
+}
+.center {
+	margin: auto !important;
+}
